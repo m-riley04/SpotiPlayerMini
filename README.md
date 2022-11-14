@@ -15,4 +15,4 @@
 * API: Spotify API
 
 
-This program was written by Riley Meyerkorth using the Spotify API and the Python package "Spotipy".
+This program was written by Riley Meyerkorth using Python 3.11
