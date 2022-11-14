@@ -10,7 +10,9 @@
 
 
 -----------------Credits-----------------
-Lead Dev: Riley Meyerkorth
-3rd Party Packages: Spotipy, Tkinter
-API: Spotify API
+* Lead Dev: Riley Meyerkorth
+* 3rd Party Packages: Spotipy, Tkinter
+* API: Spotify API
+
+
 This program was written by Riley Meyerkorth using the Spotify API and the Python package "Spotipy".
