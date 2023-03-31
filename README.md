@@ -1,8 +1,12 @@
 # SpotiPlayerMini
 
+-----------------What-----------------
+#### It's a Spotify player that is always on top of your screen. Extremely useful for multitasking, single-monitor setups, and things of that nature.
+
+
 -----------------Why-----------------
 1. It isn't reinventing the wheel, it's an attempt at innovation
-2. Practice on my skills in areas where I have little experience
+2. Practice on my skills in areas where I need more experience
     a. User interfaces (tkinter)
     b. API Integration
 3. It's something I've wanted personally for a while, since there are few other *good* alternatives
