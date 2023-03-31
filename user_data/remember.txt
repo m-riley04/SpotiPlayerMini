@@ -1,0 +1,1 @@
+<bound method IntVar.get of <tkinter.IntVar object at 0x00000116ECFBF850>>
